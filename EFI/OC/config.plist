@@ -107,7 +107,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>UEVHUA==</data>
 				<key>Limit</key>
@@ -125,7 +125,7 @@
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>RFNEVA==</data>
+				<data>U1NEVA==</data>
 			</dict>
 		</array>
 		<key>Quirks</key>
