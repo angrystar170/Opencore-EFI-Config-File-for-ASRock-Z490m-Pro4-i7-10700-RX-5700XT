@@ -899,23 +899,23 @@
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
-			<true/>
+			<false/>
 			<key>MLB</key>
-			<string>C02023902CDPHCD1F</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>57Hbrsj3</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac20,1</string>
+			<string></string>
 			<key>SystemSerialNumber</key>
-			<string>C02CT6ZBPN5T</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>4FAC5B39-A36C-423B-9910-FB5387AEC8F7</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
