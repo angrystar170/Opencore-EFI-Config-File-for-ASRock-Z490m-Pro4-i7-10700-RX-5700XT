@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
+<<<<<<< HEAD
 	<string>20G624</string>
+=======
+	<string>19H1217</string>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -17,12 +21,17 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
+<<<<<<< HEAD
 	<string>1.1.0</string>
+=======
+	<string>1.0.9</string>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
+<<<<<<< HEAD
 	<string>1.1.0</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
@@ -40,6 +49,25 @@
 	<string>1321</string>
 	<key>DTXcodeBuild</key>
 	<string>13C100</string>
+=======
+	<string>1.0.9</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>12B45b</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>11.0</string>
+	<key>DTSDKBuild</key>
+	<string>20A2408</string>
+	<key>DTSDKName</key>
+	<string>macosx11.0</string>
+	<key>DTXcode</key>
+	<string>1220</string>
+	<key>DTXcodeBuild</key>
+	<string>12B45b</string>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>org.acidanthera.NVMeFix</key>

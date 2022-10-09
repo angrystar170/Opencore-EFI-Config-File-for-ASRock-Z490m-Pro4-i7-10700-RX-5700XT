@@ -78,6 +78,17 @@
 				<key>Path</key>
 				<string>SSDT-EC-USBX-DESKTOP.aml</string>
 			</dict>
+<<<<<<< HEAD
+=======
+			<dict>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-RX 5700 XT.aml</string>
+			</dict>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 		</array>
 		<key>Delete</key>
 		<array/>
@@ -218,7 +229,11 @@
 			<key>RebuildAppleMemoryMap</key>
 			<true/>
 			<key>ResizeAppleGpuBars</key>
+<<<<<<< HEAD
 			<integer>0</integer>
+=======
+			<integer>-1</integer>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 			<key>SetupVirtualMap</key>
 			<false/>
 			<key>SignalAppleOS</key>
@@ -482,7 +497,11 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
+<<<<<<< HEAD
 				<false/>
+=======
+				<true/>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCBatteryManager</string>
 				<key>MaxKernel</key>
@@ -500,7 +519,11 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
+<<<<<<< HEAD
 				<false/>
+=======
+				<true/>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCDellSensors</string>
 				<key>MaxKernel</key>
@@ -554,7 +577,11 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
+<<<<<<< HEAD
 				<false/>
+=======
+				<true/>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -776,8 +803,11 @@
 			<false/>
 			<key>CustomSMBIOSGuid</key>
 			<false/>
+<<<<<<< HEAD
 			<key>CustomPciSerialDevice</key>
 			<false/>
+=======
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 			<key>DisableIoMapper</key>
 			<true/>
 			<key>DisableLinkeditJettison</key>
@@ -788,8 +818,11 @@
 			<false/>
 			<key>ExternalDiskIcons</key>
 			<false/>
+<<<<<<< HEAD
 			<key>ForceAquantiaEthernet</key>
 			<false/>
+=======
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 			<key>ForceSecureBootScheme</key>
 			<false/>
 			<key>IncreasePciBarSize</key>
@@ -854,7 +887,11 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
+<<<<<<< HEAD
 			<integer>10</integer>
+=======
+			<integer>1</integer>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -870,6 +907,11 @@
 			<integer>2147483650</integer>
 			<key>LogModules</key>
 			<string>*</string>
+<<<<<<< HEAD
+=======
+			<key>SerialInit</key>
+			<false/>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
@@ -934,8 +976,17 @@
 		</array>
 		<key>Security</key>
 		<dict>
+<<<<<<< HEAD
 			<key>AllowSetDefault</key>
 			<true/>
+=======
+			<key>AllowNvramReset</key>
+			<true/>
+			<key>AllowSetDefault</key>
+			<true/>
+			<key>AllowToggleSip</key>
+			<false/>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 			<key>ApECID</key>
 			<integer>0</integer>
 			<key>AuthRestart</key>
@@ -961,6 +1012,7 @@
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
+<<<<<<< HEAD
 		<key>Serial</key>
 		<dict>
 			<key>Custom</key>
@@ -995,6 +1047,8 @@
 			<key>Override</key>
 			<false/>
 		</dict>
+=======
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 		<key>Tools</key>
 		<array>
 			<dict>
@@ -1008,8 +1062,11 @@
 				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
+<<<<<<< HEAD
 				<key>FullNvramAccess</key>
 				<false/>
+=======
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 				<key>Name</key>
 				<string>CleanNvram.efi</string>
 				<key>Path</key>
@@ -1030,8 +1087,11 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+<<<<<<< HEAD
 				<key>FullNvramAccess</key>
 				<false/>
+=======
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 				<key>Name</key>
 				<string>OpenShell.efi</string>
 				<key>Path</key>
@@ -1052,8 +1112,11 @@
 				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
+<<<<<<< HEAD
 				<key>FullNvramAccess</key>
 				<false/>
+=======
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 				<key>Name</key>
 				<string>ResetSystem</string>
 				<key>Path</key>
@@ -1074,8 +1137,11 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+<<<<<<< HEAD
 				<key>FullNvramAccess</key>
 				<false/>
+=======
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 				<key>Name</key>
 				<string>KeyTester</string>
 				<key>Path</key>
@@ -1108,11 +1174,19 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
+<<<<<<< HEAD
 				<string>-v alcid=1 keepsyms=1 dart=0 debug=0x100 npci=0x2000 -wegnoegpu</string>
 				<key>csr-active-config</key>
 				<data>/w8AAA==</data>
 				<key>prev-lang:kbd</key>
 				<data>a29fa3I6MA==</data>
+=======
+				<string>agdpmod=pikera alcid=1 keepsyms=1 dart=0 debug=0x100 npci=0x2000</string>
+				<key>csr-active-config</key>
+				<data>/w8AAA==</data>
+				<key>prev-lang:kbd</key>
+				<data></data>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 				<key>run-efi-updater</key>
 				<string>No</string>
 			</dict>
@@ -1133,10 +1207,17 @@
 				<string>boot-args</string>
 			</array>
 		</dict>
+<<<<<<< HEAD
 		<key>LegacyOverwrite</key>
 		<false/>
 		<key>WriteFlash</key>
 		<true/>
+=======
+		<key>LegacyEnable</key>
+		<false/>
+		<key>LegacyOverwrite</key>
+		<false/>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 		<key>LegacySchema</key>
 		<dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
@@ -1165,6 +1246,11 @@
 				<string>BootOrder</string>
 			</array>
 		</dict>
+<<<<<<< HEAD
+=======
+		<key>WriteFlash</key>
+		<true/>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 	</dict>
 	<key>PlatformInfo</key>
 	<dict>
@@ -1215,7 +1301,11 @@
 			<key>GlobalConnect</key>
 			<false/>
 			<key>HideVerbose</key>
+<<<<<<< HEAD
 			<false/>
+=======
+			<true/>
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 			<key>JumpstartHotPlug</key>
 			<false/>
 			<key>MinDate</key>
@@ -1282,8 +1372,11 @@
 				<string></string>
 				<key>Enabled</key>
 				<true/>
+<<<<<<< HEAD
 				<key>LoadEarly</key>
 				<false/>
+=======
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 				<key>Path</key>
 				<string>OpenRuntime.efi</string>
 			</dict>
@@ -1294,8 +1387,11 @@
 				<string></string>
 				<key>Enabled</key>
 				<true/>
+<<<<<<< HEAD
 				<key>LoadEarly</key>
 				<false/>
+=======
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 				<key>Path</key>
 				<string>OpenCanopy.efi</string>
 			</dict>
@@ -1306,8 +1402,11 @@
 				<string></string>
 				<key>Enabled</key>
 				<true/>
+<<<<<<< HEAD
 				<key>LoadEarly</key>
 				<false/>
+=======
+>>>>>>> 2be1a3cc7338fdd0db3d100a53b25a27fb144201
 				<key>Path</key>
 				<string>HfsPlus.efi</string>
 			</dict>
